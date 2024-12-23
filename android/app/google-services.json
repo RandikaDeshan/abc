@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277574808870",
+    "project_id": "moonnest-caeb2",
+    "storage_bucket": "moonnest-caeb2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277574808870:android:d4adf6e41ee40c96687de7",
+        "android_client_info": {
+          "package_name": "com.uvexzon.moon_nest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt1h4o6G2_ixFna-pWWB41x-_PQLjYQPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
